@@ -1,0 +1,4 @@
+score = int(Input("Enter your score: "))
+
+if score >=100
+   print("you have selected")
